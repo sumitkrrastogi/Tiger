@@ -11,7 +11,7 @@
     <name>tiger</name>
 
     <modules>
-        <module>AppServer</module>
+        <module>appserver</module>
         <module>services</module>
     </modules>
 
